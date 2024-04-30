@@ -1,4 +1,4 @@
 qrcode
 streamlit
 pybase64
-os
+
